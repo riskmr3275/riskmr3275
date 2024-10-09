@@ -91,11 +91,4 @@
 <hr>
 <br>
 
-## Most Used Languages 📚
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=risu&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact&langs=JavaScript,HTML,CSS,SQL,Node.js">
-</p>
-
-<hr>
-<br>
+ 
