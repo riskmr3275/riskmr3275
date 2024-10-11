@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Explore my projects at [risuportfolio.netlify.app](#)
+- 👨‍💻 Explore my projects at https://github.com/riskmr3275?tab=repositories
 
 - 💬 Ask me about **Fullstack roadmap, DSA roadmap**
 
