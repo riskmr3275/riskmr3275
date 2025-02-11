@@ -1,6 +1,6 @@
 <h1> Hi Risu's here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Risu;Aspiring+Fullstack+Developer;Backend+Development+Enthusiast;DSA+LEARNER">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Risu;Aspiring+Fullstack+Developer;Backend+Development+Enthusiast;DSA+LEARNER;Machine+Learning;LLM's">
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=risu&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile views" height="25px" width="160px"/>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 Explore my projects at https://github.com/riskmr3275?tab=repositories
 
-- 💬 Ask me about **Fullstack roadmap, DSA roadmap**
+- 💬 Ask me about **Fullstack roadmap, DSA roadmap, Machine Learning**
 
 - 📫 Reach me at **riskmr3275@gmail.com**
 
