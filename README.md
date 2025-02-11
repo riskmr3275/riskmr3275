@@ -7,7 +7,7 @@
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 Explore my projects at https://github.com/riskmr3275?tab=repositories
 
