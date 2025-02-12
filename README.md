@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **riskmr3275@gmail.com**
 
-- 📄 Learn more about my experiences at [risuportfolio.netlify.app](#)
+- 📄 Learn more about my experiences at https://www.risugupta.site
 
 ### Connect with me 🔗 :
 <br>
